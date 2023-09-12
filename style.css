@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .paper12 {
     width: 200px;
     border-radius: 20px;
@@ -29,3 +30,36 @@ body {
     border-radius: 20px;
 }
     
+=======
+.paper12 {
+    width: 200px;
+    border-radius: 20px;
+}
+
+.paper-lik {
+    display: flex;
+    list-style: none;
+    gap: 30px;  
+}
+
+body {
+    background-color: cornflowerblue;
+}
+
+.peperti {
+    background-color: yellow;
+    border-radius: 20px;
+}
+
+.paper-list {
+    list-style: none;
+}
+
+.a1 {
+    text-decoration: none;
+    background-color: yellow;
+    color: black;
+    border-radius: 20px;
+}
+    
+>>>>>>> 95d1562114b3dc385071a1668edbc45c1ff4ee5a
